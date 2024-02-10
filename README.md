@@ -7,3 +7,4 @@
 - My main focus goes to Linux and Android, modding is my thing, so I'd love to see some custom mods from others, can't wait to see yours!
 - Currently focused on learning javascript and c, maybe rust someday
 - Learning nix and NixOS, the distro of the century
+- My dotfiles are hosted on sourcehut for those who are interested: [darumaka on sourcehut](https://git.sr.ht/~darumaka/)
