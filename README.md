@@ -1,5 +1,6 @@
 # Daru-san
-- Kon'nichiwa, watashinonamaeha Darudesu
+- Kon'nichiwa, watashinonamaeha Daru desu
 - You can call me Darusan
 - Self-proclaimed Linux philosopher and digital privacy advocate
-- Java and Javascript _(somewhat)_ programmer, NixOS enthusiast
+- Up and coming programmer and NixOS enthusiast
+> openSUSE is really cool too!
